@@ -10,3 +10,11 @@ Aprender Git y GitHub desde cero mediante ejercicios prácticos.
 
 - Crear un repositorio
 - Crear un archivo README
+
+## Próximos temas
+
+- Historial de cambios
+- Branches
+- Pull requests
+- GitHub Desktop
+- Git desde terminal
