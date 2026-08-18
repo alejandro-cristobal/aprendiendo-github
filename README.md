@@ -18,3 +18,7 @@ Aprender Git y GitHub desde cero mediante ejercicios prácticos.
 - Pull requests
 - GitHub Desktop
 - Git desde terminal
+
+## Práctica con branches
+
+Esta sección fue creada desde una rama diferente a main.
